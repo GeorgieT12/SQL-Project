@@ -1,1 +1,1 @@
-# SQL-Project
+This was a project I did in a bootcamp (course careers). It involved data with multiple tables about paintings. This shows a couple of questions and how I answered them and they involved counts, case statements, aggregrates, and joins to get to said answers. Still working to become more proficient and have done questions with subqueries and know how to do certain ones.
